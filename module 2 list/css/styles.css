@@ -1,0 +1,29 @@
+input,
+select,
+form button {
+    box-sizing: border-box;
+    width: 160px;
+    padding: 5px;
+}
+
+form button {
+    color: gray;
+}
+
+.disable {
+    color:lightgrey;
+}
+
+.error {
+    border: 1px solid red;
+    box-shadow: 0 0 2px red;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+    color: red;
+}
